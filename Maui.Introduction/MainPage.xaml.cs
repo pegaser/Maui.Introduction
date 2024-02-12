@@ -1,4 +1,6 @@
-﻿namespace Maui.Introduction;
+﻿using Microsoft.Maui.Controls;
+
+namespace Maui.Introduction;
 
 public partial class MainPage : ContentPage
 {
